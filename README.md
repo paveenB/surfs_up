@@ -17,3 +17,7 @@ The analysis is to compare and measure weather statistics for the months of June
 ### December
 
 ![This is an image](https://github.com/paveenB/surfs_up/blob/main/12.png)
+
+## Summary:
+
+Based on the temperatures we can see that there is not a lot of change between December and June.  We do need more information before making a decision as we do not know how much rain or other weather patterns that may attribute to the area.  If we based the decisions on temperature, then it would be fine but since there are always other factors that need to be measured, it is best to incoporate other data as well.
