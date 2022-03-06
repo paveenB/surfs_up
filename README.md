@@ -12,8 +12,8 @@ The analysis is to compare and measure weather statistics for the months of June
 
 ### June
 
-![This is an image]
+![This is an image](https://github.com/paveenB/surfs_up/blob/main/June.png)
 
 ### December
 
-![This is an image]
+![This is an image](https://github.com/paveenB/surfs_up/blob/main/December.png)
