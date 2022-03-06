@@ -10,4 +10,10 @@ The analysis is to compare and measure weather statistics for the months of June
 * The maximum temperature in June is 85 degrees and the in December it is 83 degrees
 * The minimum temperature in Juen is 64 degrees and the in Dedember it is 56 degrees
 
+### June
 
+![This is an image]
+
+### December
+
+![This is an image]
