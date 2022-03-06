@@ -6,6 +6,8 @@ The analysis is to compare and measure weather statistics for the months of June
 
 ## Results:
 
-*
-*
-*
+* The average temperature in June is 74.5 degrees and in December is is 71 degrees
+* The maximum temperature in June is 85 degrees and the in December it is 83 degrees
+* The minimum temperature in Juen is 64 degrees and the in Dedember it is 56 degrees
+
+
